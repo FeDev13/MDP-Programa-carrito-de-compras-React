@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbXCpiYKfm11YUjU715AE4xto0XO6fzBiL8Q&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "name": "laptop",
+    "price": 800,
+    "imgUrl": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/g-series/g16-7630/pdp/laptop-g16-7630-intel-pdp-hero.psd?qlt=95&fit=constrain,1&hei=400&wid=570&fmt=png-alpha"
+  },
+  {
+    "id": 3,
+    "name": "tv",
+    "price": 400,
+    "imgUrl": "https://cdn-xiaomi.waugi.com.ar/935-large_default/smart-tv-xiaomi-mi-tv-p1-43-4k-android-dolby-vision-y-audio.jpg"
+  },
+  {
+    "id": 4,
+    "name": "GPU",
+    "price": 550,
+    "imgUrl": "https://hips.hearstapps.com/hmg-prod/images/gpu-1648156025.jpg?crop=0.503xw:1.00xh;0.250xw,0&resize=640:*"
+  }
+]
